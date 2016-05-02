@@ -75,3 +75,11 @@ html {
   top: 100%;
   left: 0;
 }
+
+#chart1 {
+	margin: 50px;
+}
+
+#chart2 {
+	margin: 50px;
+}
